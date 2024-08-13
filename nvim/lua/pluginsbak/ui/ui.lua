@@ -1,0 +1,17 @@
+-- return {
+--     -- telescope ui select
+--     -- notify
+--     -- noice
+--     -- windows
+--     -- edgy
+--     -- bufferline
+--     -- lualine
+--     -- neoscroll
+--     -- indent blankline
+--     -- mini
+--         -- mini.icons
+--         -- mini.animate
+--         -- mini.indentscope
+--     -- nui
+--     -- alpha
+-- }
